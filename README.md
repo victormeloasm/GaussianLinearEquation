@@ -14,7 +14,7 @@ To run the program, you need a C compiler installed on your machine. You can fol
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/your-username/gaussian-elimination.git
+   $ git clone https://github.com/victormeloasm/GaussianLinearEquation.git
    ```
 
 2. Navigate to the project directory:
